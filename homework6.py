@@ -26,6 +26,6 @@ print("В переменную добавили ('Пароход') my_set =", my
 my_set.add((79, 58, 4))
 print("В переменную добавили (79, 58, 4) my_set =", my_set)
 my_set.discard('Дворник')
-print("Из переменнуой удалили ('Дворник') my_set =", my_set)
+print("Из переменной удалили ('Дворник') my_set =", my_set)
 print()
 print(thanks)
